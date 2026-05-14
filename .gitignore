@@ -8,3 +8,7 @@ dist/index.d.ts
 dist/LICENSE.md
 dist/package.json
 dist/README.md
+
+# auto-added by meta-ops
+node_modules/
+Thumbs.db
